@@ -1,6 +1,6 @@
 {
   "name": "@ffjs1993/progressbar.js",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Responsive and slick progress bars with animated SVG paths with equal thickness",
   "main": "src/main.js",
   "dependencies": {
