@@ -1,7 +1,7 @@
 {
   "name": "progressbar.js",
-  "version": "1.0.1-dev",
-  "description": "Responsive and slick progress bars with animated SVG paths",
+  "version": "1.0.2",
+  "description": "Responsive and slick progress bars with animated SVG paths with equal thickness",
   "main": "src/main.js",
   "dependencies": {
     "shifty": "^1.5.2"
@@ -47,14 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kimmobrunfeldt/progressbar.js.git"
+    "url": "git://github.com/fabio-silva/progressbar.js.git"
   },
-  "author": "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com> (http://kimmobrunfeldt.github.io/)",
+  "author": "Fábio Silva <ffjs1993@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kimmobrunfeldt/progressbar.js/issues"
-  },
-  "homepage": "https://kimmobrunfeldt.github.io/progressbar.js/",
   "keywords": [
     "progress",
     "bar",
